@@ -1,5 +1,5 @@
 # Choi Yongwoo GitHub
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyw320712&count_bg=%236284D5&title_bg=%234362E1&icon=googleanalytics.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://shields.io/github/followers/cyw320712?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyw320712&count_bg=%23336594&title_bg=%23264D72&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://shields.io/github/followers/cyw320712?style=social)
 
 ## Overview
 <br>
