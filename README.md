@@ -2,8 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyw320712&count_bg=%236284D5&title_bg=%234362E1&icon=googleanalytics.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://shields.io/github/followers/cyw320712?style=social)
 
 ## Overview
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyw320712&show_icons=true&theme=blueberry_duo)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyw320712&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyw320712&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyw320712&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **cyw320712/cyw320712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
