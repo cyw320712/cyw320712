@@ -5,7 +5,7 @@
 <br>
 <p align="left">
   <img width="49.5%" height="30%" src="https://github-readme-stats.vercel.app/api?username=cyw320712&show_icons=true&theme=react&hide_border=true" />
-  <img width="49.5%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyw320712&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <img width="49.5%" height="30%" src="https://github-readme-streak-stats.herokuapp.com?user=cyw320712&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <!--
 **cyw320712/cyw320712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
