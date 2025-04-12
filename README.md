@@ -3,13 +3,10 @@
 I'm Yongwoo Choi, Software Developer in South Korea <br/>
 I believe in the power of tales and I'm completely focused on amplifying their impact <br/>
 I always try to find innovative solutions with analogy <br/>
-I can do everything to resolve problems <br/>
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:cyw601@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yongwoo-choi/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyw320712&count_bg=%23336594&title_bg=%23264D72&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 <!--
 **cyw320712/cyw320712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
